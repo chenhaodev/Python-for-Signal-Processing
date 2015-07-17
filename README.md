@@ -12,7 +12,7 @@ in printed form on [Amazon](http://www.amazon.com/Python-Signal-Processing-Featu
 1. PyLab is a Python environment for scientific computation that includes the following packages:
 
 * matplotlib for graphing and data visualization
-* numpy for fundamental numerical analysis (vectors, matrices, and scientific functions that operate on them)
+* numpy for fundamental numerical analysis, e.g.vectors, matrices, and scientific functions that operate on them.
 * scipy for scientific and engineering applications.
 ----------------------------------
 
