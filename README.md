@@ -6,6 +6,14 @@ formatted notebooks and comment further. The following are the **draft**
 IPython notebooks. A subset of the blog and the content here is available
 in printed form on [Amazon](http://www.amazon.com/Python-Signal-Processing-Featuring-Notebooks/dp/3319013416).
 
+----------------------------------
+**Update info:** 
+1. PyLab is a Python environment for scientific computation that includes the following packages:
+* matplotlib for graphing and data visualization
+* numpy for fundamental numerical analysis (vectors, matrices, and scientific functions that operate on them)
+* scipy for scientific and engineering applications.
+----------------------------------
+
 Notebook Viewer Static Page Views
 -----------------------------------
 
